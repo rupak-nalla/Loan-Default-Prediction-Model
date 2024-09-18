@@ -36,7 +36,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/rupak-nalla/loan-default-prediction.git
+   git clone https://github.com/rupak-nalla/Loan-Default-Prediction-Model.git
    ```
 2. **Navigate to the Project Directory:**
 
